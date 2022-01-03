@@ -13,7 +13,7 @@ import (
 
 	"github.com/Shopify/sarama"
 
-	flow "github.com/bwNetFlow/protobuf/go"
+	flow "github.com/23m/protobuf-flows"
 	"github.com/golang/protobuf/proto"
 
 	"net/http"
