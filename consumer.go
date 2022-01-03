@@ -2,8 +2,8 @@ package kafka
 
 import (
 	"context"
+	flow "github.com/23m/protobuf-flows"
 	"github.com/Shopify/sarama"
-	flow "github.com/bwNetFlow/protobuf/go"
 	"github.com/golang/protobuf/proto"
 	"log"
 )

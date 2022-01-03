@@ -15,7 +15,6 @@ import (
 
 	flow "github.com/23m/protobuf-flows"
 	"github.com/golang/protobuf/proto"
-
 	"net/http"
 
 	prometheusmetrics "github.com/deathowl/go-metrics-prometheus"
